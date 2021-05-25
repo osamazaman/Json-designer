@@ -1,0 +1,43 @@
+export default {
+    "id": "0de90950-017c-11ea-98cb-35502d159b42",
+    "startupComponentId": null,
+    "name": "C-Factor",
+    "title": "C-Factor",
+    "description": "C-Factor Standard.",
+    "image_url": null,
+    "state": "active",
+    "start_date": "2019-10-21",
+    "end_date": "2022-11-21",
+    "active": true,
+    "allow_direct_applications": false,
+    "allow_invites_only": false,
+    "createdAt": "2019-11-07T16:31:30.917Z",
+    "updatedAt": "2019-11-12T19:37:11.529Z",
+    "clientId": null,
+    "status": "active",
+    "score": 0,
+    "activeComponentId": "0",
+    "components": [
+      {
+        "id": "agility",
+        "componentId": "agility",
+        "nextComponentId": "-1",
+        "type": "SJT",
+        "title": "That's my problem",
+        "description": "SJT - Agility",
+        "dataURL": "",
+        "assetsURL": "./assets/images/campaign/sjts/#currentSjt/",
+        "timer": 90,
+        "icon": null,
+        "url": null,
+        "startupData": null,  
+        "state": "open",
+        "active": true,
+        "createdAt": "2019-11-07T21:15:14.060Z",
+        "updatedAt": "2019-11-14T03:00:52.062Z",
+        "score": 0,
+        "status": 0,
+        "strikeable": false
+      }
+    ]
+  }

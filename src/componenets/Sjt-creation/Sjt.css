@@ -1,0 +1,127 @@
+.myAddBtn{
+    border-radius: 5;
+}
+
+.sjt-list{
+    padding-right: 120px;
+}
+
+.continueBtn{
+    border-radius: 5;
+    margin-top: -10px;
+}
+
+.instructionsBox{
+    margin-top: 20px;
+}
+
+.myDropZone{
+    height: 250px;
+    margin-top: 40px;
+    align-items: center;
+    
+}
+
+.InputDialogue{
+    width: 500px;
+}
+
+.accordionRight{
+    margin-right: 100px;
+}
+
+#optionss{
+    margin-top: 20px;
+}
+
+.options-section{
+    padding-bottom: 20px;
+}
+
+.deleteBtn{
+    background-color: red;
+}
+
+.optionNumbers{
+    width: 28px;
+}
+
+.myLabel{
+    width: 155px;
+}
+
+.footerBtns{
+    width: 1040px;
+}
+
+#nextSjtBtn{
+    background-color:#007e8b;
+    color:white;
+    height:60px;
+    width:250px;
+    font-weight: 620;
+    font-size: 22px;
+    border-radius:10px;
+    float: right;
+    line-height: 50px;
+}
+
+.config-labels{
+    width: 240px;
+    font-weight: 630;
+}
+
+.config-container{
+    margin-left: 10px;
+}
+
+.Page-Header{
+    margin-top: 30px;
+    margin-left: 29px;
+}
+
+.configDropdown{
+    width: 300px;
+}
+
+.historyCard{
+    width: 1050px;
+}
+
+.ant-card-head {
+    padding: 0px;
+}
+
+.historyTimer{
+    float: right;
+    padding: 10px;
+}
+
+.panelHeaders{
+    font-weight: 630;
+    font-size: 16px;
+}
+
+.apptitudeLabel{
+    width:205px;
+}
+
+.description-label{
+    width: 300px;
+    height: 70px;
+    font-weight: 630;
+}
+
+.avatar-uploader{
+    margin-top: 10px;
+}
+
+
+
+.ant-form label {
+    width: 103px;
+}
+
+#dialogue {
+    width: -webkit-fill-available;
+}

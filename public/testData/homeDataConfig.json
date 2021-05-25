@@ -1,0 +1,41 @@
+[
+    {
+        "lang": "English",
+        "incharge": "oz",
+        "date": "24-08-2020",
+        "status": "approved",
+        "campaign": "KElectric",
+        "type": "Custom",
+        "json": {
+            "images": {},
+            "data": {
+                "sjt": "sjt"
+            }
+        }
+    },
+    {
+        "lang": "Turkish",
+        "date": "01-07-2020",
+        "status": "approved",
+        "campaign": "Banglalink",
+        "type": "Custom",
+        "json": {
+            "images": {},
+            "data": {
+                "sjt": "sjt"
+            }
+        }
+    },
+    {
+        "lang": "Urdu",
+        "date": "01-07-2020",
+        "campaign": "PSDF",
+        "type": "Standard",
+        "json": {
+            "images": {},
+            "data": {
+                "sjt": "sjt"
+            }
+        }
+    }
+]
